@@ -1,0 +1,45 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Linux/Unix temporary files
+*.tmp
+
+# SourceMod spcomp's log
+compile.dat
+
+# SPComp testing plugin compilations
+**/compiled/
+
+# VS Code settings
+**/.vscode/settings.json
+**/.vs/slnx.sqlite
+addons/sourcemod/scripting/.vs/VSWorkspaceState.json
+addons/sourcemod/scripting/.vs/scripting/v17/workspaceFileList.bin
+addons/sourcemod/scripting/.vs/scripting/v17/.suo
+addons/sourcemod/scripting/.vs/scripting/project-colors.json
+addons/sourcemod/scripting/.vs/ProjectSettings.json
+
+# =========================
+# Operating System Files
+# =========================
+clientprefs-sqlite.sq3
+logs/
+#addons/sourcemod/configs/databases.cfg
+OUTDIR/

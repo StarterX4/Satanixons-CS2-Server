@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"LuaUnlocker"
+	"file"	"addons/LuaUnlocker/bin/linuxsteamrt64/LuaUnlocker"
+}
