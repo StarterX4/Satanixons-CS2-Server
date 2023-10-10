@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"server_account"
+	"file"	"addons/server_account/server_account"
+}
