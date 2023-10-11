@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"Admin Base"
+	"file"	"addons\admin_base\admin_base"
+}
